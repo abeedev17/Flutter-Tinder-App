@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1027933571776",
+    "project_id": "catchme-92c5e",
+    "storage_bucket": "catchme-92c5e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027933571776:android:050056a9b87b6cb0443b25",
+        "android_client_info": {
+          "package_name": "com.magario.dtq"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1027933571776-12400k3mfeksk3arbfj2e21vsdimejm1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.magario.dtq",
+            "certificate_hash": "bafb6580404dbcb344588cf402f819df6bb136df"
+          }
+        },
+        {
+          "client_id": "1027933571776-amls67974cq2ch9oinkohngio1f75fbg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb9NELXlSvz7UYtl8erHjkB1xLs3jelMc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1027933571776-amls67974cq2ch9oinkohngio1f75fbg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
